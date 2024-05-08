@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/CVTenorio/WD-SEATWORK-TWO-TENORIO">
   <!-- TODO: If you want to add logo or banner you can add it here --> 
     <img src="./assets/img/Happy_Face.png" alt="Happee" width="200" height="200">
   </a>
@@ -13,15 +13,14 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-        This is your happy place, you can lend all of your problems below. 
-        Our happy friends will assist you once you've type your experience.
+        This is your happy place, you can lend all of your problems below. Our happy friends will assist you once you've type your experience.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=CVTenorio/WD-SEATWORK-TWO-TENORIO)
 
 ---
 
@@ -54,7 +53,7 @@
 
 ---
 
-## Overview
+# Overview:
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
