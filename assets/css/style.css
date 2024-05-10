@@ -1,0 +1,10 @@
+*  {    
+    padding: 0;
+    margin: 0;
+}
+
+/* Dev */
+header,
+header *{
+    outline: 1px red dashed;
+}
