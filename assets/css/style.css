@@ -4,7 +4,12 @@
 }
 
 /* Dev */
-header,
 header *{
     outline: 1px red dashed;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0%;
 }
