@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/CVTenorio/WD-SEATWORK-TWO-TENORIO">
   <!-- TODO: If you want to add logo or banner you can add it here --> 
-    <img src="./assets/img/Happy_Face.png" alt="Happee" width="200" height="200">
+    <<a href="https://app.daily.dev/carl_tenorio"><img src="https://api.daily.dev/devcards/v2/aMyP8cEzGYWVAcAbUfOcz.png?r=hup&type=wide" width="652" alt="Carl Tenorio's Dev Card"/></a>
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Welcome to Happy Land!</h3>
@@ -76,7 +76,6 @@ Guiding Question:
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules and Principles
 1. Always use ***WD-*** in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -112,3 +111,7 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+## Documentation
+
+<!--My wireframe>
