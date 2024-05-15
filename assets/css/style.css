@@ -1,15 +1,24 @@
 *  {    
     padding: 0;
     margin: 0;
+    background-color: yellow;
+
 }
 
 /* Dev */
 header *{
-    outline: 1px red dashed;
+    outline: 1px rgb(27, 17, 17) dashed;
+    background-color: blueviolet;
+
 }
 
 header {
     display: flex;
     justify-content: space-between;
     padding: 0%;
+
+}
+
+h1 {
+    
 }
