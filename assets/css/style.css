@@ -8,7 +8,7 @@ header {
 }
 
 body{
-    background-image: url(Background.jpg);
+    background-image: url(HomeBackground.png);
     background-attachment: fixed;
     background-position: center;
 }
