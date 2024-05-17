@@ -11,17 +11,26 @@ header {
     padding: 0%;
     height: auto;
     width: 100%;
-    background-color: rgb(82, 14, 104);
-}
-
-section {
-    outline: 2px black dashed;
+    background-color: aquamarine;
 }
 
 button {
     background-color: cadetblue;
     color: green;
     padding: 10px 20px;
+}
+
+.home {
+    height: 100vh;
+    outline: 2px rgb(115, 255, 0) dashed;
+}
+
+img{
+    background-image: url(/assets/img/HomeBackground.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    max-width: 100%;
 }
 
 body {
