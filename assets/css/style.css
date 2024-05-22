@@ -2,18 +2,13 @@ header {
     outline: dashed rgb(0, 255, 55);
     margin: 0px;
     padding: 0px;
-    height: auto;
+    height: 100%;
     width: auto;
     background-color: rgb(51, 175, 175);
     justify-content: space-between;
 }
 
-nav {
-    
-}
-
 button {
-    outline: dashed rgb(30, 0, 255);
     padding: 10px;
     border-color: rgb(18, 18, 80);
     background-color: cornflowerblue;
@@ -37,6 +32,7 @@ p {
     font-size: larger;
 }
 
+/*Text Container of Welcome*/
 .HomeText {
     position: absolute;
     color:blanchedalmond;
