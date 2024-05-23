@@ -6,19 +6,11 @@ header {
     /*guides are above*/
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 80px;
+    justify-content: space-around;
+    padding: 10px;
     height: auto;
     width: auto;
-    background-color: rgb(162, 68, 87);
-}
-
-header {
-    display: flex;
-    align-items: center;
-    padding: 10px;
     background-color: rgb(236, 203, 213);
-    justify-content: space-between;
 }
 
 .logo img {
@@ -67,7 +59,7 @@ body {
     outline-width: 10px;
 }
 
-/*ParentContainer of  ChildContainers  1 2 3*/
+/*ParentContainer of ChildContainers 1 2 3*/
 
 .HomeGroupContainers {
     display: flex;
@@ -99,7 +91,7 @@ body {
     border-radius: 30px;
     box-shadow: rgba(2, 2, 92, 0.25) 100px 30px 200px -12px inset;
     cursor: pointer;
-    transition: transform 0.5s, opacity 0.5s;
+    transition: transform 0.5s, opacity 0.7s;
 }
 
 /*js properties*/

@@ -1,20 +1,19 @@
 header {
-    outline: solid rgb(13, 141, 41);
+    outline: solid rgb(153, 83, 173);
     outline-width: 10px;
     /*guides are above*/
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 80px;
+    justify-content: space-around;
+    padding: 10px;
     height: auto;
     width: auto;
-    background-color: rgb(162, 68, 87);
+    background-color: rgb(236, 203, 213);
 }
 
 header .logo {
-    font-size: 20px;
-    font-weight: bold;
-    color: beige;
+    width: 60%;
+    height: auto;
 }
 
 header .navigation {
@@ -43,9 +42,12 @@ body {
     position: relative;
     width: 100%;
     height: auto;
+    outline: solid green;
+    outline-width: 10px;
 }
 
 .background img {
     width: 100%;
     height: auto;
 }
+
