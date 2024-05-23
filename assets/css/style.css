@@ -78,14 +78,42 @@ body {
 
 /*ChildContainers */
 
-/*1 2 3*/.HomeContainerOne, .HomeContainerTwo, .HomeContainerThree {
+/*1 2 3*/.HomeContainerOne, .HomeContainerTwo, .HomeContainerThree{
     outline: solid yellow;
     flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
     margin: 0 10px;
     padding: 20px;
     background-color: rgb(215, 189, 96);
     text-align: center;
     border-radius: 30px;
     box-shadow: rgba(2, 2, 92, 0.25) 100px 30px 200px -12px inset;
+    cursor: pointer;
+    transition: transform 0.5s, opacity 0.5s;
+}
+
+.hidden {
+    transform: scale(0);
+    opacity: 0;
+    pointer-events: none;
+    position:absolute;
+}
+
+.released {
+    transform: scale(1);
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.HomeContainerTwo {
+    left: 120px;
+}
+
+
+.HomeContainerThree {
+    left: 120px;
 }
 

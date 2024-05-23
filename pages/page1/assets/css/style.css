@@ -1,0 +1,51 @@
+header {
+    outline: solid rgb(13, 141, 41);
+    outline-width: 10px;
+    /*guides are above*/
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 80px;
+    height: auto;
+    width: auto;
+    background-color: rgb(162, 68, 87);
+}
+
+header .logo {
+    font-size: 20px;
+    font-weight: bold;
+    color: beige;
+}
+
+header .navigation {
+    display: flex;
+    gap: 18px;
+}
+
+header .navigation a {
+    text-decoration: none;
+    color: beige;
+    font-size: 18px;
+    transition: color 0.5s;
+}
+
+header .navigation a:hover {
+    color: rgb(108, 16, 16)
+}
+
+body {
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.background {
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+.background img {
+    width: 100%;
+    height: auto;
+}
