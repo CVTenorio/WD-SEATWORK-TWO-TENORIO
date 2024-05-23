@@ -13,10 +13,17 @@ header {
     background-color: rgb(162, 68, 87);
 }
 
-header .logo {
-    font-size: 20px;
-    font-weight: bold;
-    color: beige;
+header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(236, 203, 213);
+    justify-content: space-between;
+}
+
+.logo img {
+    width: 60%;
+    height: auto;
 }
 
 header .navigation {
@@ -63,8 +70,6 @@ body {
 /*ParentContainer of  ChildContainers  1 2 3*/
 
 .HomeGroupContainers {
-    outline: solid rgb(224, 0, 244);
-    outline-width: 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -80,6 +85,8 @@ body {
 
 /*1 2 3*/.HomeContainerOne, .HomeContainerTwo, .HomeContainerThree{
     outline: solid yellow;
+    height: auto;
+    width: auto;
     flex: 1;
     display: flex;
     justify-content: center;
@@ -95,6 +102,7 @@ body {
     transition: transform 0.5s, opacity 0.5s;
 }
 
+/*js properties*/
 .hidden {
     transform: scale(0);
     opacity: 0;
@@ -108,12 +116,11 @@ body {
     pointer-events: auto;
 }
 
-.HomeContainerTwo {
+.HomeContainerOne {
     left: 120px;
 }
 
-
 .HomeContainerThree {
-    left: 120px;
+    right: 120px;
 }
 
