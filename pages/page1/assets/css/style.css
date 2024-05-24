@@ -15,7 +15,6 @@ header {
 header .logo {
     margin: 0;
     padding: 1px 1px 1px 1px;
-    outline: dashed rgb(70, 202, 83);
     width: fit-content;
     height: fit-content;
 }
@@ -23,7 +22,6 @@ header .logo {
 .logo img {
     margin: 0;
     padding: 1px;
-    outline: dashed red;
     width: 200px;
     height: auto;
     display: block;
