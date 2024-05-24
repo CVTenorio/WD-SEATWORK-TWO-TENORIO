@@ -1,3 +1,5 @@
+
+/*FOR CONTAINERS */
 let containersReleased = false;
 
 function releaseContainers () {
@@ -18,3 +20,8 @@ function releaseContainers () {
 
     containersReleased = !containersReleased;
 }
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    document.querySelector('.HomeContainerOne').classList.add('hidden');
+    document.querySelector('.HomeContainerThree').classList.add('hidden');
+});

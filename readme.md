@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/CVTenorio/WD-SEATWORK-TWO-TENORIO">
   <!-- TODO: If you want to add logo or banner you can add it here --> 
-    <a href="https://app.daily.dev/carl_tenorio"><img src="https://api.daily.dev/devcards/v2/aMyP8cEzGYWVAcAbUfOcz.png?r=hup&type=wide" width="800" alt="Carl Tenorio's Dev Card"/></a>
+    <a href="https://app.daily.dev/carl_tenorio"><img src="/assets/img/EGGY_LOGO.png" width="800" alt="Eggy Logo"/></a>
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Welcome to Happy Land!</h3>
@@ -68,7 +68,8 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
+- MultiPage Website
+- Homepage/Welcome page/utilize 
 - Parallax transition
 - Transactional
 
