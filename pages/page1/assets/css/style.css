@@ -73,7 +73,7 @@ body {
 
 .outeraboutContainer {
     display: flex;
-    flex-direction: column; /* Adjust direction for vertical stacking */
+    flex-direction: column; 
     justify-content: center;
     align-items: center;
     width: 100%;
@@ -88,9 +88,14 @@ body {
     background-color: rgba(255, 246, 207, 0.9);
     border-radius: 30px;
     box-shadow: 10px 10px 10px rgba(32, 38, 31, 0.5);
-    margin: 20px; /* Add margin for better spacing between sections */
-    flex: 1; /* Ensure it can grow */
-    width: 80%; /* Optionally limit width */
+    margin: 20px; 
+    flex: 1; 
+    width: 80%; 
+    transition: background-color 0.5s;
+}
+
+.aboutfloatContainer:hover {
+    background-color: rgba(255, 233, 166, 0.9);
 }
 
 .aboutfloat_item {
@@ -100,9 +105,16 @@ body {
     color: rgb(0, 0, 0);
     background-color: rgb(255, 233, 166);
     border: solid rgb(255, 246, 207);
-    border-width: 5px;
+    border-width: 3px;
     flex: 1;
+    opacity: 0;
+    transition: opacity 0.5s ease;
 }
+
+.aboutfloatContainer:hover .aboutfloat_item {
+    opacity: 1;
+}
+
 
 .aboutfloat_item_text-container {
     display: flex;
@@ -115,11 +127,4 @@ body {
 .aboutfloat_item_text-container h2,
 .aboutfloat_item_text-container p {
     margin: 10px 0;
-}
-
-.aboutfloat_item_image-container img {
-    max-width: 100%;
-    border-radius: 10px;
-    border-color: aquamarine;
-    outline-width: 10px;
 }
