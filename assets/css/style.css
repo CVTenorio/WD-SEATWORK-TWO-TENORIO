@@ -109,6 +109,8 @@ body {
     pointer-events: auto;
 }
 
+
+/*The distance of containers 1 & 3  */
 .HomeContainerOne {
     left: 120px;
 }

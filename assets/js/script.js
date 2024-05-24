@@ -1,5 +1,5 @@
 
-/*FOR CONTAINERS */
+/*FOR HIDING AND DISPLAY OF CONTAINERS */
 let containersReleased = false;
 
 function releaseContainers () {

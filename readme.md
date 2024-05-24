@@ -9,11 +9,11 @@
     <a href="https://app.daily.dev/carl_tenorio"><img src="/assets/img/EGGY_LOGO.png" width="800" alt="Eggy Logo"/></a>
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Welcome to Happy Land!</h3>
+  <h3 align="center">WELCOME TO MY WEBSITE</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-        This is your happy place, you can lend all of your problems below. Our happy friends will assist you once you've type your experience.
+       Hi, This is Eggy and this is Carl Vincent Tenorio's Website!
 </div>
 
 <br />
@@ -59,17 +59,19 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
+- It is a resume website that has a theme like a breakfast  style but it consist of mostly eggs as its (img,logo,background) elements and has color palette just like the colors of an egg. The developer of this website have a fond of eggs and his avatar it is an egg form being. He wants to share to his vistors the fond for loving eggs not just his preferred breakfast meal but also an egg can be utilize as a design. More information can be seen below.
+
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project - Resume
+- Whats the purpose - Share the love for eggs
+- What are key components - can be seen below
+- What technology used and how it is used - 
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website
-- Homepage/Welcome page/utilize 
+- Homepage/css transition transform (for having an effect that it will in & out display of 2 containers left and the right)
 - Parallax transition
 - Transactional
 
@@ -112,8 +114,11 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-
+| Color Palette | To have an breakfast themed color style for the website and utilize the colors of eggs| https://www.color-hex.com/color-palette/7579|
+|-|-|-|
+| Learning and Utilizing the Transition property (CSS) | By having a duration for the animation of each property | https://developer.mozilla.org/en-US/docs/Web/CSS/transition / https://thoughtbot.com/blog/transitions-and-transforms|
+|-|-|-|
+| In (homepage) hidden and release properties that it (JS) | to have an effect that if its clicked it will display 2 more containers, if its clicked again it will hide back the 2 containers that appear | trykolang.com |
 ## Documentation
 
 <!--My wireframe>
