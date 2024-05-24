@@ -116,9 +116,13 @@ WD-ProjectName
 |-|-|-|
 | Color Palette | To have an breakfast themed color style for the website and utilize the colors of eggs| https://www.color-hex.com/color-palette/7579|
 |-|-|-|
-| Learning and Utilizing the Transition property (CSS) | By having a duration for the animation of each property | https://developer.mozilla.org/en-US/docs/Web/CSS/transition / https://thoughtbot.com/blog/transitions-and-transforms|
+| Learning the basics and Utilizing the Transition property (CSS) | By having a duration for the animation of each property | https://developer.mozilla.org/en-US/docs/Web/CSS/transition / https://thoughtbot.com/blog/transitions-and-transforms|
 |-|-|-|
-| In (homepage) hidden and release properties that it (JS) | to have an effect that if its clicked it will display 2 more containers, if its clicked again it will hide back the 2 containers that appear | trykolang.com |
+|Learning Box Shadow | to utilize having box shadow for the containers | https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow|
+|-|-|-|
+|Learning Javascript | to have an basic knowledge of how the syntax of javascript and how to utilize the remove and hidden js propertise to have an effect that it will be hidden if it was clicked or will be click the certain element by the vistor | https://developer.mozilla.org/en-US/docs/Web/JavaScript / https://developer.mozilla.org/en-US/docs/Web/CSS/visibility|
+
+
 ## Documentation
 
 <!--My wireframe>
