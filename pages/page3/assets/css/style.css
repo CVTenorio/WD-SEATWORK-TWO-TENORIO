@@ -1,5 +1,7 @@
 * {
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 header {
@@ -14,23 +16,24 @@ header {
 
 header .logo {
     margin: 0;
-    padding: 1px;
+    padding: 1px 1px 1px 1px;
     outline: dashed rgb(70, 202, 83);
     width: fit-content;
-    height: auto;
+    height: fit-content;
 }
 
 .logo img {
     margin: 0;
     padding: 1px;
     outline: dashed red;
-    width: 50%;
+    width: 200px;
     height: auto;
     display: block;
 }
 
 header .navigation {
-    justify-content: space-between;
+    margin: 0;
+    padding: 20px 20px;
     display: flex;
     gap: 18px;
 }
@@ -43,7 +46,7 @@ header .navigation a {
 }
 
 header .navigation a:hover {
-    color: rgb(108, 16, 16)
+    color: rgb(108, 16, 16);
 }
 
 .contacts {

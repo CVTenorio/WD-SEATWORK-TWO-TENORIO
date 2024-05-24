@@ -14,17 +14,17 @@ header {
 
 header .logo {
     margin: 0;
-    padding: 1px;
+    padding: 1px 1px 1px 1px;
     outline: dashed rgb(70, 202, 83);
     width: fit-content;
-    height: auto;
+    height: fit-content;
 }
 
 .logo img {
     margin: 0;
     padding: 1px;
     outline: dashed red;
-    width: 50%;
+    width: 200px;
     height: auto;
     display: block;
 }
