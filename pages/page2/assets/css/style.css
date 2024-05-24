@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    padding: 10px;
+    height: auto;
+    width: auto;
+    background-color: rgb(255, 233, 166);
+}
+
+header .logo {
+    margin: 0;
+    padding: 1px;
+    outline: dashed rgb(70, 202, 83);
+    width: fit-content;
+    height: auto;
+}
+
+.logo img {
+    margin: 0;
+    padding: 1px;
+    outline: dashed red;
+    width: 50%;
+    height: auto;
+    display: block;
+}
+
+header .navigation {
+    justify-content: space-between;
+    display: flex;
+    gap: 18px;
+}
+
+header .navigation a {
+    text-decoration: none;
+    color: beige;
+    font-size: 18px;
+    transition: color 0.5s;
+}
+
+header .navigation a:hover {
+    color: rgb(108, 16, 16)
+}
+
+.education {
+    position: relative;
+    outline-width: 10px;
+}
+
+body {
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.background {
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+.background img {
+    width: 100%;
+    height: auto;
+}
+

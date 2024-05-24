@@ -53,7 +53,7 @@
 
 ---
 
-# Overview:
+### Overview:
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
@@ -72,7 +72,7 @@ Guiding Question:
 <!-- The following are just sample -->
 - MultiPage Website
 - Homepage/css transition transform (for having an effect that it will in & out display of 2 containers left and the right)
-- Parallax transition
+- custom design for each buttons for each nav
 - Transactional
 
 ### Technology
@@ -114,15 +114,12 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Color Palette | To have an breakfast themed color style for the website and utilize the colors of eggs| https://www.color-hex.com/color-palette/7579|
+| Color Palette | To have an breakfast themed color style for the website and utilize the colors of eggs| https://www.color-hex.com/color-palette/7579 / https://www.color-hex.com/color-palette/1043626|
 |-|-|-|
 | Learning the basics and Utilizing the Transition property (CSS) | By having a duration for the animation of each property | https://developer.mozilla.org/en-US/docs/Web/CSS/transition / https://thoughtbot.com/blog/transitions-and-transforms|
 |-|-|-|
 |Learning Box Shadow (CSS) | to utilize having box shadow for the containers | https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow|
 |-|-|-|
-|Learning Javascript | to have an basic knowledge of how the syntax of javascript and how to utilize the remove and hidden js propertise to have an effect that it will be hidden if it was clicked or will be click the certain element by the vistor | https://developer.mozilla.org/en-US/docs/Web/JavaScript / https://developer.mozilla.org/en-US/docs/Web/CSS/visibility|
-
-
-## Documentation
+|Learning the basics of Javascript | to have an basic knowledge of how the syntax of javascript and how to utilize the remove and hidden js propertise to have an effect that it will be hidden if it was clicked or will be click the certain element by the vistor | https://developer.mozilla.org/en-US/docs/Web/JavaScript / https://developer.mozilla.org/en-US/docs/Web/CSS/visibility|
 
 <!--My wireframe>

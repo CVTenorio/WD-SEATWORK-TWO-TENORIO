@@ -1,21 +1,34 @@
-/*ALL PAGES*/
+/*home*/
+
+* {
+    margin: 0;
+}
 
 header {
-    outline: solid rgb(13, 141, 41);
-    outline-width: 10px;
-    /*guides are above*/
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content:space-evenly;
     padding: 10px;
     height: auto;
     width: auto;
-    background-color: rgb(236, 203, 213);
+    background-color: rgb(255, 233, 166);
+}
+
+header .logo {
+    margin: 0;
+    padding: 1px;
+    outline: dashed rgb(70, 202, 83);
+    width: fit-content;
+    height: auto;
 }
 
 .logo img {
-    width: 60%;
+    margin: 0;
+    padding: 1px;
+    outline: dashed red;
+    width: 50%;
     height: auto;
+    display: block;
 }
 
 header .navigation {
@@ -24,7 +37,7 @@ header .navigation {
 }
 
 header .navigation a {
-    text-decoration: none;
+    text-decoration: none; 
     color: beige;
     font-size: 18px;
     transition: color 0.5s;
@@ -55,14 +68,12 @@ body {
 
 .home {
     position: relative;
-    outline: solid rgb(28, 4, 136);
-    outline-width: 10px;
 }
 
 /*ParentContainer of ChildContainers 1 2 3*/
 
 .HomeGroupContainers {
-    outline: dashed blue;
+    margin: auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
