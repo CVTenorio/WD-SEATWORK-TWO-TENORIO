@@ -65,7 +65,7 @@ Guiding Question:
 - What is the project - Resume
 - Whats the purpose - Share the love for eggs
 - What are key components - can be seen below
-- What technology used and how it is used - 
+- What technology used and how it is used 
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -118,7 +118,7 @@ WD-ProjectName
 |-|-|-|
 | Learning the basics and Utilizing the Transition property (CSS) | By having a duration for the animation of each property | https://developer.mozilla.org/en-US/docs/Web/CSS/transition / https://thoughtbot.com/blog/transitions-and-transforms|
 |-|-|-|
-|Learning Box Shadow | to utilize having box shadow for the containers | https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow|
+|Learning Box Shadow (CSS) | to utilize having box shadow for the containers | https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow|
 |-|-|-|
 |Learning Javascript | to have an basic knowledge of how the syntax of javascript and how to utilize the remove and hidden js propertise to have an effect that it will be hidden if it was clicked or will be click the certain element by the vistor | https://developer.mozilla.org/en-US/docs/Web/JavaScript / https://developer.mozilla.org/en-US/docs/Web/CSS/visibility|
 
