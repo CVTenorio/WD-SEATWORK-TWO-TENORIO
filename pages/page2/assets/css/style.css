@@ -1,5 +1,7 @@
 * {
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 header {
@@ -44,7 +46,7 @@ header .navigation a:hover {
     color: rgb(108, 16, 16)
 }
 
-.education {
+.HnS {
     position: relative;
     outline-width: 10px;
 }
@@ -58,11 +60,44 @@ body {
 .background {
     position: relative;
     width: 100%;
-    height: auto;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
 }
 
 .background img {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
-    height: auto;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
 }
 
+.HnSContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.floatContainer {
+    width: 80%;
+    background-color: rgba(255, 246, 207, 0.9);
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    text-align: center;
+}
+
+.floatItem h2 {
+    margin-bottom: 10px;
+}
+
+.floatItem p {
+    margin-top: 0;
+}
