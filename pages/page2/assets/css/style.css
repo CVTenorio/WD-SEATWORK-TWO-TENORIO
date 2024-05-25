@@ -7,10 +7,8 @@
 header {
     display: flex;
     align-items: center;
-    justify-content:space-between;
+    justify-content: space-between;
     padding: 10px;
-    height: auto;
-    width: auto;
     background-color: rgb(255, 233, 166);
 }
 
@@ -30,7 +28,8 @@ header .logo {
 }
 
 header .navigation {
-    justify-content: space-between;
+    margin: 0;
+    padding: 20px 20px;
     display: flex;
     gap: 18px;
 }
@@ -43,16 +42,11 @@ header .navigation a {
 }
 
 header .navigation a:hover {
-    color: rgb(108, 16, 16)
-}
-
-.HnS {
-    position: relative;
-    outline-width: 10px;
+    color: rgb(108, 16, 16);
 }
 
 body {
-    font-family: Georgia;
+    font-family: Georgia, serif;
     font-weight: bold;
     font-size: larger;
 }
@@ -77,28 +71,60 @@ body {
     z-index: -1;
 }
 
-.HnSContainer {
+.outerHnSContainer {
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.HnSfloatContainer {
+    display: flex;
+    justify-content: center;
     align-items: center;
     gap: 20px;
     padding: 20px;
+    background-color: rgba(255, 246, 207, 0.9);
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px rgba(32, 38, 31, 0.5);
+    margin: 20px; 
+    flex: 1; 
+    width: 80%; 
+    transition: background-color 0.5s;
 }
 
-.floatContainer {
-    width: 100%;
-    height: auto;
-    background-color: rgba(255, 246, 207, 0.9);
-    border-radius: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    padding: 20px;
+.HnSfloatContainer:hover {
+    background-color: rgba(255, 233, 166, 0.9);
+}
+
+.HnSfloat_item {
+    margin: 0;
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 233, 166);
+    border: solid rgb(255, 246, 207);
+    border-width: 3px;
+    flex: 1;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.HnSfloatContainer:hover .HnSfloat_item {
+    opacity: 1;
+}
+
+
+.HnSfloat_item_text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     text-align: center;
 }
 
-.floatItem h2 {
-    margin-bottom: 10px;
-}
-
-.floatItem p {
-    margin-top: 0;
+.HnSfloat_item_text-container h2,
+.HnSfloat_item_text-container p {
+    margin: 10px 0;
 }
