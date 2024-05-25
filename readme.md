@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/CVTenorio/WD-SEATWORK-TWO-TENORIO">
   <!-- TODO: If you want to add logo or banner you can add it here --> 
-    <a href="https://app.daily.dev/carl_tenorio"><img src="/assets/img/EGGY_LOGO.png" width="800" alt="Eggy Logo"/></a>
+    <a href="https://app.daily.dev/carl_tenorio"><img src="//assets/img/eggy logo.png" width="800" alt="Eggy Logo"/></a>
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">WELCOME TO MY WEBSITE</h3>
+  <h3 align="center">WELCOME TO MY WEBSITE!</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-       Hi, This is Eggy and this is Carl Vincent Tenorio's Website!
+       Hi, My name is Carl Vincent Tenorio also known as EGGY!
 </div>
 
 <br />
@@ -71,9 +71,10 @@ Guiding Question:
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website
-- Homepage/css transition transform (for having an effect that it will in & out display of 2 containers left and the right)
-- custom design for each buttons for each nav
-- Transactional
+- Homepage/ utilizing CSS transition transform (for having an effect that it will in & out display of 2 containers left and the right)
+- Custom Design of Logo (to go back to home, click Eggy)
+- Some of the pages' containers require to be hovered to see the content.
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -115,11 +116,13 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Color Palette | To have an breakfast themed color style for the website and utilize the colors of eggs| https://www.color-hex.com/color-palette/7579 / https://www.color-hex.com/color-palette/1043626|
-|-|-|-|
+||||
 | Learning the basics and Utilizing the Transition property (CSS) | By having a duration for the animation of each property | https://developer.mozilla.org/en-US/docs/Web/CSS/transition / https://thoughtbot.com/blog/transitions-and-transforms|
-|-|-|-|
+||||
 |Learning Box Shadow (CSS) | to utilize having box shadow for the containers | https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow|
-|-|-|-|
+||||
 |Learning the basics of Javascript | to have an basic knowledge of how the syntax of javascript and how to utilize the remove and hidden js propertise to have an effect that it will be hidden if it was clicked or will be click the certain element by the vistor | https://developer.mozilla.org/en-US/docs/Web/JavaScript / https://developer.mozilla.org/en-US/docs/Web/CSS/visibility|
+||||
+|Utilize CSS Hover and Transition | to learn how to hide things and give suprise to the viewers  | https://developer.mozilla.org/en-US/docs/Web/CSS/@media/hover / https://developer.mozilla.org/en-US/docs/Web/CSS/transition /
 
-<!--My wireframe>
+<!--My wireframe-->
