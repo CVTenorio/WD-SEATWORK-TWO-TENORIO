@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/CVTenorio/WD-SEATWORK-TWO-TENORIO">
   <!-- TODO: If you want to add logo or banner you can add it here --> 
-    <a href="https://app.daily.dev/carl_tenorio"><img src="//assets/img/eggy logo.png" width="800" alt="Eggy Logo"/></a>
+    <a href="https://app.daily.dev/carl_tenorio"><img src="/assets/img/eggy logo.png" width="800" alt="Eggy Logo"/></a>
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">WELCOME TO MY WEBSITE!</h3>
